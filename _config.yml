@@ -20,7 +20,7 @@ webtitle: ''
 bio: '可以不聪明 但别不清醒'
 about: true
 aboutyou: '一只欢快的程序员'
-portraits: ''
+portraits: '/assets/QY399.jpg'
 
 # SNS
 SNS: false
@@ -70,8 +70,8 @@ livere: false
 livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
 Gitment: true
-Gitment_owner: ''  # github用户名
-Gitment_repo: ''  # github博客存放的仓库名
+Gitment_owner: 'QY399'  # github用户名
+Gitment_repo: 'Gitment'  # github博客存放的仓库名
 #client_id: ''  # 注册 OAuth Application 后获得的 client_id
 #client_secret: ''  # 注册 OAuth Application 后获得的 #client_secret
 
