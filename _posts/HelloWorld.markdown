@@ -2,7 +2,7 @@
 layout: post
 title:  "写在建立之初"
 date:   2019-07-23 18:14:27 +0800
-tags: jekyll update
+tags: HelloWorld
 color: rgb(255,90,90)
 cover: '../assets/test.png'
 subtitle: '开始记录自己'
