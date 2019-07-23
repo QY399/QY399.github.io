@@ -20,15 +20,15 @@ webtitle: ''
 bio: '可以不聪明 但别不清醒'
 about: true
 aboutyou: '一只欢快的程序员'
-portraits: '/assets/profile.jpeg'
+portraits: 'https://i.imgur.com/dbMe5ng.jpg'
 
 # SNS
-SNS: false
+SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:abc@gmail.com'
-  weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: ''
+  weixin: 'https://i.imgur.com/3nEPC7w.jpg' # 你的微信二维码存放的地址
+  qq: 'https://i.imgur.com/evp1Meu.jpg' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+  github: 'https://QY399.github.io'
   Codepen: ''
   weibo: ''
   instagram: ''
