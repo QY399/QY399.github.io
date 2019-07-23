@@ -1,26 +1,27 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-05-17 14:05:21 +0800
+title:  "写在建立之初"
+date:   2019-07-23 18:14:27 +0800
 tags: jekyll update
 color: rgb(255,90,90)
 cover: '../assets/test.png'
-subtitle: 'Welcome to Jekyll!'
+subtitle: '开始记录自己'
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+依靠GitHub和Jekyll搭建了一个自己的简约的博客，还接触了Markdown和html的语法，非常新鲜。并且Markdown用起来特别简单便捷，nice~
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+另外，作为一只欢快的程序员，怎么能没有Hello World!呢：
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+#include<iostream>
+using namespace std;
+
+int main(void)
+{
+	cout << "Hello World!" << endl;
+	return ;
+}
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+源码和项目可能会往GitHub上传~[MY-GITHUB][github]
 
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+[github]:   https://github.com/QY399
