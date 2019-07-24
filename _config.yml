@@ -16,7 +16,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: '清雨'
 NickName: 'clear_rain'
-webtitle: ''
+webtitle: '知进退，明得失'
 bio: '可以不聪明 但别不清醒'
 about: true
 aboutyou: '一只欢快的程序员'
@@ -26,9 +26,9 @@ portraits: 'https://i.imgur.com/S1yvcZP.jpg'
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:abc@gmail.com'
-  weixin: 'https://i.imgur.com/3nEPC7w.jpg' # 你的微信二维码存放的地址
-  qq: 'https://i.imgur.com/evp1Meu.jpg' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: 'https://QY399.github.io'
+  weixin: 'https://i.imgur.com/3nEPC7w.jpg'
+  qq: 'https://i.imgur.com/evp1Meu.jpg' 
+  github: ''
   Codepen: ''
   weibo: ''
   instagram: ''
@@ -45,7 +45,7 @@ paginate: 5
 paginatepath: ['page:num']
 
 # since
-footer:clear_rain@163.com
+footer: 'clear_rain@163.com'
   since: 2019
 
 # Markdown
