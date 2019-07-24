@@ -25,9 +25,9 @@ portraits: 'https://i.imgur.com/S1yvcZP.jpg'
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:abc@gmail.com'
-  weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+  mail: ''
+  weixin: ''
+  qq: ''
   github: ''
   Codepen: ''
   weibo: ''
