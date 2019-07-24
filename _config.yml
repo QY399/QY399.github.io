@@ -41,7 +41,7 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   twitch: ''
 
 # 分页
-paginate: 2
+paginate: 5
 paginatepath: ['page:num']
 
 # since
@@ -66,10 +66,10 @@ friends:
 disqus: false
 disqus_url: '' # https://abc.disqus.com/embed.js
 # 来必力评论
-livere: true
+livere: false
 livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
-Gitment: false
+Gitment: true
 Gitment_owner: ''  # github用户名
 Gitment_repo: ''  # github博客存放的仓库名
 client_id: ''  # 注册 OAuth Application 后获得的 client_id
@@ -80,7 +80,7 @@ social-share: true
 social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook']
 
 # 百度统计 在baidu-url里填写自己相关的url代码
-baidu: true
+baidu: false
 baidu-url: ''
 # 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
 google: false
