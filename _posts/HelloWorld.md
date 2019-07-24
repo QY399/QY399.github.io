@@ -22,6 +22,6 @@ int main(void)
 }
 {% endhighlight %}
 
-源码和项目可能会往GitHub上传~[MY-GITHUB][github]
+源码和项目可能会在GitHub上传~[MY-GITHUB][github]
 
 [github]:   https://github.com/QY399

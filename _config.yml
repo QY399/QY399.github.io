@@ -20,7 +20,7 @@ webtitle: ''
 bio: '可以不聪明 但别不清醒'
 about: true
 aboutyou: '一只欢快的程序员'
-portraits: 'https://i.imgur.com/dbMe5ng.jpg'
+portraits: 'https://i.imgur.com/S1yvcZP.jpg'
 
 # SNS
 SNS: true
@@ -80,7 +80,7 @@ social-share: true
 social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook','linkedin','tencent']
 
 # 百度统计 在baidu-url里填写自己相关的url代码
-baidu: true
+baidu: false
 baidu-url: 'QY399.github.io'
 # 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
 google: false
