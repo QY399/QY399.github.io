@@ -26,8 +26,8 @@ portraits: 'https://i.imgur.com/S1yvcZP.jpg'
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: ''
-  weixin: ''
-  qq: ''
+  weixin: 'https://i.imgur.com/3zTN5hl.jpg'
+  qq: 'https://i.imgur.com/ooNtLDC.jpg'
   github: ''
   Codepen: ''
   weibo: ''
@@ -46,7 +46,7 @@ paginatepath: ['page:num']
 
 # since
 footer:
-  since: 2018
+  since: 2019
 
 # Markdown
 markdown: kramdown
@@ -70,10 +70,10 @@ livere: false
 livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
 Gitment: true
-Gitment_owner: ''  # github用户名
-Gitment_repo: ''  # github博客存放的仓库名
-client_id: ''  # 注册 OAuth Application 后获得的 client_id
-client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
+Gitment_owner: 'QY399'
+Gitment_repo: 'Gitment'
+client_id: ''
+client_secret: ''
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
 social-share: true
