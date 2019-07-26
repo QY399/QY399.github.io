@@ -26,9 +26,9 @@ portraits: 'assets/QY399.jpg'
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: ''
-  weixin: 'https://i.imgur.com/3zTN5hl.jpg'
-  qq: 'https://i.imgur.com/ooNtLDC.jpg'
-  github: ''
+  weixin: 'assets/Friend/wechat.jpg'
+  qq: 'assets/Friend/QQ.jpg'
+  github: 'https://github.com/QY399'
   Codepen: ''
   weibo: ''
   instagram: ''
